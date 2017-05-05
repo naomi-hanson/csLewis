@@ -5,4 +5,19 @@
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    z-index: 2;
+}
+
+h1 {
+  font-family: "myriad-pro";
+  }
+
+.logo-content {
+    position: relative;
+    min-height: 50px;
+    background-image: url(../assets/textures/parchment_logo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    z-index: 2;
 }

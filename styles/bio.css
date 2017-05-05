@@ -1,0 +1,8 @@
+.bio-content {
+    position: relative;
+    min-height: 600px;
+    background-image: url(../assets/images/bg/biography.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
